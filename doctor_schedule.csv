@@ -1,0 +1,16 @@
+doctor_name,ward,shift_start,shift_end,is_available
+Dr. A. Patel,ICU,10:00,18:00,Yes
+Dr. B. Mishra,ICU,10:00,18:00,Yes
+Dr. C. Mishra,ER,10:00,18:00,No
+Dr. D. Nayak,ER,10:00,18:00,Yes
+Dr. E. Patel,ER,10:00,18:00,No
+Dr. F. Mishra,ICU,10:00,18:00,Yes
+Dr. G. Sinha,Ward,10:00,18:00,No
+Dr. H. Patel,ICU,10:00,18:00,Yes
+Dr. I. Patel,ICU,10:00,18:00,No
+Dr. J. Mishra,ICU,10:00,18:00,No
+Dr. K. Nayak,ER,10:00,18:00,No
+Dr. L. Sinha,ICU,10:00,18:00,No
+Dr. M. Mishra,Ward,10:00,18:00,No
+Dr. N. Sinha,ER,10:00,18:00,Yes
+Dr. O. Mishra,Ward,10:00,18:00,Yes

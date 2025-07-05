@@ -1,0 +1,501 @@
+medicine_id,medicine_name,manufacturer,quantity_available,expiry_date,category,form
+5000,Paracetamol,Zydus,97,2026-03-31,Non-Generic,Ointment
+5001,Levothyroxine,Alkem,57,2026-02-02,Non-Generic,Ointment
+5002,Hydroxychloroquine,Zydus,37,2026-02-04,Non-Generic,Injection
+5003,Omeprazole,Alkem,58,2025-10-30,Generic,Injection
+5004,Paracetamol,Mankind,63,2026-02-12,Non-Generic,Tablet
+5005,Aspirin,Mankind,8,2026-02-24,Generic,Syrup
+5006,Amoxicillin,Mankind,43,2025-10-04,Non-Generic,Ointment
+5007,Levothyroxine,Lupin,75,2025-12-15,Non-Generic,Syrup
+5008,Omeprazole,Zydus,9,2025-09-25,Generic,Tablet
+5009,Amoxicillin,Sun Pharma,26,2025-09-21,Generic,Ointment
+5010,Hydroxychloroquine,Glenmark,11,2026-05-31,Generic,Capsule
+5011,Azithromycin,Lupin,38,2025-10-19,Non-Generic,Capsule
+5012,Levothyroxine,Cipla,46,2025-11-30,Non-Generic,Injection
+5013,Amoxicillin,Mankind,71,2025-12-15,Generic,Ointment
+5014,Paracetamol,Alkem,38,2026-03-07,Non-Generic,Ointment
+5015,Levothyroxine,Glenmark,67,2026-01-28,Generic,Injection
+5016,Hydroxychloroquine,Mankind,70,2025-11-13,Generic,Injection
+5017,Aspirin,Biocon,84,2026-03-06,Generic,Capsule
+5018,Aspirin,Torrent Pharma,5,2026-03-19,Non-Generic,Ointment
+5019,Ibuprofen,Alkem,75,2025-10-27,Generic,Syrup
+5020,Ibuprofen,Cipla,46,2026-05-13,Non-Generic,Tablet
+5021,Hydroxychloroquine,Cipla,100,2025-11-30,Non-Generic,Syrup
+5022,Amoxicillin,Zydus,34,2026-06-11,Generic,Capsule
+5023,Azithromycin,Sun Pharma,56,2026-01-24,Non-Generic,Injection
+5024,Amoxicillin,Biocon,49,2025-08-22,Non-Generic,Injection
+5025,Paracetamol,Cipla,4,2026-04-21,Non-Generic,Syrup
+5026,Metformin,Torrent Pharma,95,2025-08-23,Generic,Capsule
+5027,Omeprazole,Sun Pharma,0,2026-03-24,Generic,Ointment
+5028,Amoxicillin,Mankind,30,2025-12-15,Generic,Syrup
+5029,Hydroxychloroquine,Torrent Pharma,37,2025-12-07,Non-Generic,Injection
+5030,Paracetamol,Lupin,86,2026-01-04,Non-Generic,Tablet
+5031,Paracetamol,Zydus,14,2026-02-04,Generic,Tablet
+5032,Paracetamol,Biocon,79,2025-08-31,Generic,Capsule
+5033,Omeprazole,Torrent Pharma,21,2026-02-12,Non-Generic,Capsule
+5034,Hydroxychloroquine,Mankind,88,2026-02-25,Non-Generic,Injection
+5035,Ibuprofen,Lupin,48,2026-01-01,Generic,Injection
+5036,Aspirin,Lupin,67,2026-01-05,Non-Generic,Ointment
+5037,Levothyroxine,Torrent Pharma,73,2026-04-13,Generic,Tablet
+5038,Paracetamol,Torrent Pharma,46,2026-03-27,Non-Generic,Ointment
+5039,Paracetamol,Sun Pharma,99,2026-01-17,Generic,Syrup
+5040,Ciprofloxacin,Mankind,37,2025-10-31,Non-Generic,Capsule
+5041,Aspirin,Biocon,73,2025-12-28,Non-Generic,Syrup
+5042,Levothyroxine,Dr. Reddy's,40,2026-03-20,Non-Generic,Injection
+5043,Azithromycin,Dr. Reddy's,73,2026-02-02,Generic,Injection
+5044,Ciprofloxacin,Cipla,20,2025-09-20,Non-Generic,Capsule
+5045,Metformin,Sun Pharma,91,2025-10-31,Non-Generic,Capsule
+5046,Ciprofloxacin,Zydus,83,2025-09-13,Non-Generic,Syrup
+5047,Omeprazole,Glenmark,85,2026-04-10,Generic,Tablet
+5048,Levothyroxine,Biocon,85,2025-10-25,Non-Generic,Injection
+5049,Omeprazole,Lupin,1,2025-08-14,Non-Generic,Syrup
+5050,Aspirin,Alkem,28,2025-09-14,Generic,Syrup
+5051,Paracetamol,Alkem,12,2026-04-22,Non-Generic,Syrup
+5052,Aspirin,Alkem,94,2026-05-24,Generic,Syrup
+5053,Azithromycin,Torrent Pharma,66,2026-02-20,Non-Generic,Injection
+5054,Ibuprofen,Alkem,57,2025-07-27,Generic,Tablet
+5055,Hydroxychloroquine,Dr. Reddy's,63,2026-01-12,Generic,Ointment
+5056,Omeprazole,Zydus,18,2026-03-21,Non-Generic,Ointment
+5057,Ibuprofen,Sun Pharma,34,2026-04-12,Non-Generic,Capsule
+5058,Aspirin,Zydus,22,2025-12-10,Generic,Tablet
+5059,Azithromycin,Dr. Reddy's,11,2026-02-15,Non-Generic,Capsule
+5060,Amoxicillin,Cipla,62,2025-08-02,Non-Generic,Capsule
+5061,Omeprazole,Cipla,26,2025-07-29,Generic,Capsule
+5062,Paracetamol,Torrent Pharma,91,2025-10-29,Generic,Syrup
+5063,Azithromycin,Glenmark,43,2026-03-31,Generic,Ointment
+5064,Hydroxychloroquine,Zydus,32,2025-11-30,Generic,Tablet
+5065,Metformin,Torrent Pharma,13,2025-08-02,Non-Generic,Tablet
+5066,Hydroxychloroquine,Zydus,28,2026-05-28,Non-Generic,Ointment
+5067,Amoxicillin,Alkem,48,2025-11-22,Non-Generic,Injection
+5068,Hydroxychloroquine,Glenmark,6,2026-06-02,Generic,Syrup
+5069,Azithromycin,Glenmark,50,2025-08-30,Non-Generic,Ointment
+5070,Paracetamol,Torrent Pharma,49,2025-09-24,Non-Generic,Injection
+5071,Amoxicillin,Torrent Pharma,6,2026-03-11,Non-Generic,Capsule
+5072,Aspirin,Dr. Reddy's,39,2025-07-25,Non-Generic,Tablet
+5073,Hydroxychloroquine,Zydus,63,2025-10-24,Non-Generic,Capsule
+5074,Paracetamol,Mankind,4,2026-01-04,Non-Generic,Capsule
+5075,Hydroxychloroquine,Torrent Pharma,28,2025-12-29,Generic,Ointment
+5076,Levothyroxine,Sun Pharma,10,2026-06-25,Non-Generic,Capsule
+5077,Ciprofloxacin,Zydus,36,2026-02-02,Non-Generic,Injection
+5078,Ibuprofen,Glenmark,42,2025-08-02,Non-Generic,Capsule
+5079,Azithromycin,Alkem,20,2026-01-28,Generic,Capsule
+5080,Azithromycin,Zydus,46,2026-04-17,Generic,Capsule
+5081,Hydroxychloroquine,Cipla,7,2026-05-13,Non-Generic,Tablet
+5082,Omeprazole,Dr. Reddy's,21,2025-10-13,Generic,Ointment
+5083,Azithromycin,Glenmark,10,2026-01-11,Non-Generic,Tablet
+5084,Paracetamol,Lupin,12,2025-10-20,Generic,Syrup
+5085,Amoxicillin,Glenmark,54,2025-12-06,Non-Generic,Capsule
+5086,Omeprazole,Alkem,97,2025-12-01,Non-Generic,Tablet
+5087,Hydroxychloroquine,Zydus,89,2025-08-12,Non-Generic,Injection
+5088,Ciprofloxacin,Zydus,41,2025-11-29,Generic,Injection
+5089,Paracetamol,Glenmark,40,2025-12-17,Generic,Capsule
+5090,Hydroxychloroquine,Sun Pharma,5,2026-05-01,Generic,Ointment
+5091,Omeprazole,Torrent Pharma,75,2026-03-15,Generic,Tablet
+5092,Amoxicillin,Cipla,85,2025-12-15,Generic,Ointment
+5093,Azithromycin,Zydus,14,2026-06-18,Generic,Tablet
+5094,Aspirin,Mankind,13,2026-03-24,Non-Generic,Syrup
+5095,Metformin,Mankind,95,2025-07-30,Generic,Injection
+5096,Ibuprofen,Mankind,49,2026-03-05,Generic,Tablet
+5097,Levothyroxine,Torrent Pharma,13,2025-09-29,Generic,Syrup
+5098,Ciprofloxacin,Sun Pharma,73,2026-03-13,Non-Generic,Capsule
+5099,Ciprofloxacin,Torrent Pharma,68,2026-04-17,Non-Generic,Syrup
+5100,Omeprazole,Zydus,68,2025-08-22,Generic,Injection
+5101,Azithromycin,Glenmark,44,2026-06-16,Non-Generic,Tablet
+5102,Azithromycin,Alkem,94,2026-03-19,Generic,Syrup
+5103,Ibuprofen,Alkem,100,2025-07-25,Generic,Ointment
+5104,Omeprazole,Zydus,45,2026-01-30,Generic,Syrup
+5105,Omeprazole,Mankind,33,2025-10-30,Non-Generic,Syrup
+5106,Metformin,Glenmark,76,2025-09-11,Non-Generic,Capsule
+5107,Hydroxychloroquine,Dr. Reddy's,33,2025-10-08,Non-Generic,Injection
+5108,Metformin,Sun Pharma,78,2026-01-11,Non-Generic,Ointment
+5109,Azithromycin,Mankind,35,2025-10-06,Non-Generic,Capsule
+5110,Ciprofloxacin,Torrent Pharma,54,2025-10-05,Non-Generic,Injection
+5111,Hydroxychloroquine,Sun Pharma,47,2026-05-19,Generic,Capsule
+5112,Azithromycin,Cipla,89,2026-03-08,Non-Generic,Injection
+5113,Levothyroxine,Biocon,9,2026-05-30,Non-Generic,Syrup
+5114,Azithromycin,Dr. Reddy's,53,2025-09-13,Generic,Capsule
+5115,Amoxicillin,Dr. Reddy's,27,2025-08-01,Non-Generic,Capsule
+5116,Ciprofloxacin,Torrent Pharma,10,2026-01-03,Non-Generic,Capsule
+5117,Metformin,Glenmark,35,2026-03-21,Generic,Tablet
+5118,Hydroxychloroquine,Lupin,58,2025-08-29,Non-Generic,Syrup
+5119,Aspirin,Glenmark,79,2025-12-03,Generic,Tablet
+5120,Ciprofloxacin,Glenmark,77,2026-06-13,Non-Generic,Tablet
+5121,Metformin,Alkem,35,2026-05-05,Non-Generic,Injection
+5122,Paracetamol,Cipla,72,2026-01-30,Non-Generic,Capsule
+5123,Ciprofloxacin,Zydus,99,2025-08-05,Non-Generic,Capsule
+5124,Omeprazole,Dr. Reddy's,89,2026-04-13,Generic,Syrup
+5125,Omeprazole,Mankind,34,2026-04-06,Non-Generic,Ointment
+5126,Amoxicillin,Cipla,3,2026-01-01,Non-Generic,Injection
+5127,Ibuprofen,Alkem,2,2025-10-19,Generic,Ointment
+5128,Amoxicillin,Biocon,84,2025-12-17,Non-Generic,Tablet
+5129,Omeprazole,Biocon,41,2025-09-17,Generic,Injection
+5130,Aspirin,Biocon,28,2025-10-19,Generic,Syrup
+5131,Hydroxychloroquine,Torrent Pharma,41,2026-06-08,Non-Generic,Capsule
+5132,Hydroxychloroquine,Sun Pharma,92,2025-09-12,Generic,Capsule
+5133,Paracetamol,Alkem,46,2025-09-19,Non-Generic,Ointment
+5134,Ciprofloxacin,Lupin,99,2026-03-21,Non-Generic,Capsule
+5135,Azithromycin,Glenmark,60,2026-01-26,Non-Generic,Ointment
+5136,Paracetamol,Alkem,58,2026-04-07,Non-Generic,Ointment
+5137,Omeprazole,Sun Pharma,32,2025-09-23,Generic,Tablet
+5138,Paracetamol,Lupin,77,2026-06-25,Non-Generic,Injection
+5139,Paracetamol,Cipla,52,2025-12-20,Generic,Capsule
+5140,Azithromycin,Dr. Reddy's,41,2026-02-03,Generic,Injection
+5141,Omeprazole,Dr. Reddy's,42,2025-12-31,Generic,Ointment
+5142,Paracetamol,Glenmark,40,2026-05-02,Non-Generic,Syrup
+5143,Ibuprofen,Alkem,60,2025-12-11,Non-Generic,Capsule
+5144,Aspirin,Sun Pharma,26,2026-05-18,Non-Generic,Capsule
+5145,Ciprofloxacin,Lupin,17,2025-11-11,Generic,Tablet
+5146,Omeprazole,Biocon,59,2026-03-06,Generic,Tablet
+5147,Omeprazole,Dr. Reddy's,63,2025-10-04,Generic,Tablet
+5148,Ciprofloxacin,Torrent Pharma,32,2026-02-27,Non-Generic,Syrup
+5149,Ciprofloxacin,Sun Pharma,44,2026-06-24,Generic,Capsule
+5150,Hydroxychloroquine,Sun Pharma,14,2025-09-29,Non-Generic,Injection
+5151,Amoxicillin,Mankind,55,2025-07-25,Non-Generic,Injection
+5152,Metformin,Torrent Pharma,20,2025-08-13,Generic,Capsule
+5153,Ibuprofen,Glenmark,65,2026-01-07,Non-Generic,Ointment
+5154,Aspirin,Zydus,95,2026-01-17,Non-Generic,Capsule
+5155,Paracetamol,Biocon,30,2026-03-25,Non-Generic,Ointment
+5156,Aspirin,Dr. Reddy's,47,2026-06-05,Non-Generic,Injection
+5157,Metformin,Sun Pharma,14,2026-01-18,Non-Generic,Tablet
+5158,Paracetamol,Biocon,67,2025-12-06,Non-Generic,Ointment
+5159,Ibuprofen,Zydus,74,2025-10-05,Non-Generic,Capsule
+5160,Aspirin,Torrent Pharma,45,2026-02-05,Generic,Tablet
+5161,Amoxicillin,Glenmark,33,2025-11-06,Generic,Capsule
+5162,Paracetamol,Cipla,2,2026-03-05,Non-Generic,Capsule
+5163,Paracetamol,Cipla,45,2025-09-13,Generic,Ointment
+5164,Ciprofloxacin,Sun Pharma,100,2025-11-23,Generic,Syrup
+5165,Ciprofloxacin,Cipla,20,2025-09-06,Non-Generic,Ointment
+5166,Paracetamol,Torrent Pharma,69,2026-02-22,Non-Generic,Tablet
+5167,Levothyroxine,Sun Pharma,59,2026-02-07,Non-Generic,Ointment
+5168,Azithromycin,Dr. Reddy's,35,2025-11-01,Non-Generic,Injection
+5169,Hydroxychloroquine,Lupin,94,2025-08-09,Non-Generic,Tablet
+5170,Levothyroxine,Sun Pharma,91,2025-10-01,Non-Generic,Ointment
+5171,Hydroxychloroquine,Alkem,55,2026-06-07,Non-Generic,Syrup
+5172,Metformin,Glenmark,88,2026-02-24,Generic,Injection
+5173,Ciprofloxacin,Torrent Pharma,36,2025-12-03,Generic,Capsule
+5174,Aspirin,Alkem,47,2026-03-15,Non-Generic,Capsule
+5175,Aspirin,Biocon,48,2026-06-02,Non-Generic,Syrup
+5176,Aspirin,Dr. Reddy's,29,2026-05-10,Generic,Ointment
+5177,Ibuprofen,Glenmark,76,2026-03-04,Generic,Syrup
+5178,Paracetamol,Torrent Pharma,21,2026-01-26,Non-Generic,Ointment
+5179,Levothyroxine,Cipla,59,2026-05-28,Generic,Capsule
+5180,Metformin,Glenmark,36,2026-02-16,Non-Generic,Ointment
+5181,Omeprazole,Zydus,59,2026-04-17,Generic,Tablet
+5182,Hydroxychloroquine,Torrent Pharma,2,2026-02-26,Non-Generic,Capsule
+5183,Aspirin,Zydus,12,2026-04-10,Non-Generic,Syrup
+5184,Paracetamol,Biocon,81,2026-05-28,Generic,Syrup
+5185,Amoxicillin,Mankind,68,2025-11-16,Non-Generic,Injection
+5186,Levothyroxine,Glenmark,85,2026-01-16,Non-Generic,Syrup
+5187,Metformin,Dr. Reddy's,38,2025-11-10,Generic,Syrup
+5188,Ibuprofen,Zydus,0,2026-03-26,Generic,Syrup
+5189,Aspirin,Alkem,75,2026-04-06,Generic,Tablet
+5190,Hydroxychloroquine,Lupin,51,2025-11-26,Generic,Tablet
+5191,Amoxicillin,Zydus,24,2025-08-11,Non-Generic,Capsule
+5192,Metformin,Torrent Pharma,60,2025-07-25,Non-Generic,Ointment
+5193,Paracetamol,Dr. Reddy's,40,2026-03-15,Non-Generic,Tablet
+5194,Azithromycin,Lupin,45,2025-12-15,Non-Generic,Tablet
+5195,Ibuprofen,Glenmark,55,2025-08-23,Non-Generic,Capsule
+5196,Azithromycin,Torrent Pharma,37,2025-10-09,Non-Generic,Ointment
+5197,Ciprofloxacin,Sun Pharma,13,2025-10-24,Generic,Ointment
+5198,Amoxicillin,Dr. Reddy's,25,2026-04-01,Non-Generic,Ointment
+5199,Ibuprofen,Torrent Pharma,27,2026-06-12,Non-Generic,Injection
+5200,Ciprofloxacin,Biocon,5,2026-05-15,Non-Generic,Tablet
+5201,Azithromycin,Dr. Reddy's,16,2025-09-16,Non-Generic,Injection
+5202,Ibuprofen,Cipla,67,2026-04-17,Generic,Syrup
+5203,Ciprofloxacin,Dr. Reddy's,51,2026-05-12,Generic,Injection
+5204,Metformin,Dr. Reddy's,26,2026-06-13,Generic,Syrup
+5205,Aspirin,Dr. Reddy's,81,2026-03-02,Generic,Capsule
+5206,Amoxicillin,Dr. Reddy's,27,2026-05-03,Non-Generic,Injection
+5207,Amoxicillin,Zydus,41,2026-03-01,Generic,Injection
+5208,Paracetamol,Zydus,38,2025-08-23,Non-Generic,Ointment
+5209,Omeprazole,Sun Pharma,70,2026-06-11,Generic,Tablet
+5210,Amoxicillin,Torrent Pharma,65,2025-09-24,Generic,Ointment
+5211,Paracetamol,Dr. Reddy's,37,2026-03-25,Generic,Syrup
+5212,Ibuprofen,Cipla,48,2026-06-08,Non-Generic,Syrup
+5213,Metformin,Glenmark,36,2026-01-25,Generic,Capsule
+5214,Omeprazole,Biocon,21,2026-01-08,Non-Generic,Capsule
+5215,Levothyroxine,Alkem,2,2026-03-15,Non-Generic,Tablet
+5216,Ibuprofen,Mankind,88,2026-06-14,Generic,Tablet
+5217,Ibuprofen,Zydus,72,2025-10-13,Non-Generic,Capsule
+5218,Azithromycin,Biocon,30,2025-12-13,Non-Generic,Tablet
+5219,Ibuprofen,Sun Pharma,34,2025-11-25,Generic,Syrup
+5220,Metformin,Cipla,16,2025-09-23,Non-Generic,Injection
+5221,Omeprazole,Dr. Reddy's,58,2025-09-19,Generic,Ointment
+5222,Ibuprofen,Torrent Pharma,30,2026-03-07,Generic,Tablet
+5223,Ciprofloxacin,Mankind,24,2025-08-15,Non-Generic,Tablet
+5224,Levothyroxine,Glenmark,48,2026-02-02,Generic,Capsule
+5225,Azithromycin,Glenmark,51,2025-11-02,Generic,Ointment
+5226,Azithromycin,Glenmark,34,2025-11-22,Non-Generic,Capsule
+5227,Azithromycin,Glenmark,39,2025-10-07,Generic,Tablet
+5228,Metformin,Biocon,90,2026-03-18,Non-Generic,Injection
+5229,Ciprofloxacin,Cipla,80,2026-04-07,Non-Generic,Capsule
+5230,Amoxicillin,Cipla,61,2026-02-01,Generic,Syrup
+5231,Azithromycin,Zydus,32,2025-12-14,Non-Generic,Capsule
+5232,Amoxicillin,Mankind,22,2025-08-15,Generic,Injection
+5233,Ibuprofen,Mankind,3,2025-08-13,Generic,Ointment
+5234,Amoxicillin,Torrent Pharma,60,2026-05-23,Generic,Injection
+5235,Hydroxychloroquine,Lupin,11,2025-08-24,Generic,Syrup
+5236,Aspirin,Lupin,60,2025-11-18,Non-Generic,Syrup
+5237,Aspirin,Torrent Pharma,55,2025-11-07,Generic,Syrup
+5238,Aspirin,Sun Pharma,63,2025-09-02,Non-Generic,Tablet
+5239,Omeprazole,Biocon,40,2025-10-07,Generic,Capsule
+5240,Paracetamol,Torrent Pharma,1,2026-05-30,Generic,Ointment
+5241,Levothyroxine,Mankind,17,2026-02-11,Non-Generic,Injection
+5242,Ciprofloxacin,Dr. Reddy's,83,2025-08-28,Generic,Ointment
+5243,Omeprazole,Zydus,88,2025-11-21,Non-Generic,Capsule
+5244,Omeprazole,Torrent Pharma,80,2025-08-08,Generic,Ointment
+5245,Amoxicillin,Lupin,78,2025-10-17,Non-Generic,Capsule
+5246,Azithromycin,Cipla,45,2025-11-30,Non-Generic,Capsule
+5247,Paracetamol,Cipla,57,2026-05-19,Non-Generic,Syrup
+5248,Ibuprofen,Dr. Reddy's,16,2026-06-06,Non-Generic,Injection
+5249,Paracetamol,Cipla,93,2026-01-12,Non-Generic,Ointment
+5250,Ibuprofen,Glenmark,65,2025-08-02,Non-Generic,Injection
+5251,Paracetamol,Cipla,70,2025-11-03,Non-Generic,Tablet
+5252,Ibuprofen,Zydus,67,2026-04-22,Non-Generic,Ointment
+5253,Hydroxychloroquine,Dr. Reddy's,77,2025-08-25,Non-Generic,Capsule
+5254,Aspirin,Lupin,67,2025-08-23,Generic,Injection
+5255,Amoxicillin,Cipla,87,2026-04-25,Non-Generic,Ointment
+5256,Metformin,Torrent Pharma,26,2026-04-22,Non-Generic,Injection
+5257,Ibuprofen,Biocon,93,2025-09-21,Generic,Ointment
+5258,Azithromycin,Zydus,59,2025-07-31,Generic,Injection
+5259,Levothyroxine,Torrent Pharma,24,2025-09-22,Generic,Tablet
+5260,Ibuprofen,Torrent Pharma,51,2026-05-06,Generic,Syrup
+5261,Hydroxychloroquine,Sun Pharma,4,2025-08-20,Non-Generic,Tablet
+5262,Omeprazole,Lupin,11,2026-05-14,Generic,Tablet
+5263,Metformin,Torrent Pharma,13,2025-07-25,Non-Generic,Tablet
+5264,Paracetamol,Glenmark,31,2025-08-24,Non-Generic,Injection
+5265,Amoxicillin,Mankind,60,2025-07-27,Generic,Ointment
+5266,Ciprofloxacin,Alkem,64,2026-03-09,Generic,Syrup
+5267,Levothyroxine,Sun Pharma,9,2026-02-08,Non-Generic,Ointment
+5268,Hydroxychloroquine,Mankind,50,2025-11-16,Non-Generic,Ointment
+5269,Amoxicillin,Torrent Pharma,19,2026-03-02,Non-Generic,Ointment
+5270,Amoxicillin,Cipla,23,2025-12-19,Generic,Injection
+5271,Paracetamol,Torrent Pharma,15,2026-03-28,Non-Generic,Tablet
+5272,Aspirin,Sun Pharma,24,2026-03-18,Non-Generic,Capsule
+5273,Ciprofloxacin,Dr. Reddy's,30,2025-09-03,Generic,Tablet
+5274,Azithromycin,Cipla,32,2026-02-27,Generic,Capsule
+5275,Omeprazole,Lupin,87,2025-11-02,Non-Generic,Tablet
+5276,Omeprazole,Zydus,14,2026-03-31,Generic,Ointment
+5277,Paracetamol,Alkem,12,2026-02-21,Generic,Capsule
+5278,Aspirin,Dr. Reddy's,35,2026-02-26,Non-Generic,Syrup
+5279,Metformin,Cipla,98,2026-04-05,Non-Generic,Tablet
+5280,Paracetamol,Biocon,18,2026-01-20,Non-Generic,Injection
+5281,Metformin,Biocon,100,2026-03-15,Generic,Capsule
+5282,Hydroxychloroquine,Sun Pharma,22,2026-03-28,Non-Generic,Injection
+5283,Metformin,Cipla,68,2025-12-24,Generic,Syrup
+5284,Levothyroxine,Alkem,79,2025-10-21,Generic,Ointment
+5285,Azithromycin,Lupin,54,2025-12-05,Non-Generic,Injection
+5286,Paracetamol,Dr. Reddy's,81,2026-05-31,Generic,Tablet
+5287,Ibuprofen,Lupin,13,2026-01-23,Non-Generic,Tablet
+5288,Aspirin,Biocon,38,2025-09-05,Generic,Syrup
+5289,Azithromycin,Cipla,39,2026-04-09,Generic,Ointment
+5290,Azithromycin,Torrent Pharma,49,2026-06-07,Generic,Tablet
+5291,Azithromycin,Alkem,55,2026-03-04,Generic,Injection
+5292,Azithromycin,Biocon,90,2026-02-16,Generic,Ointment
+5293,Levothyroxine,Sun Pharma,68,2025-11-04,Non-Generic,Capsule
+5294,Aspirin,Dr. Reddy's,95,2025-08-05,Generic,Tablet
+5295,Levothyroxine,Alkem,76,2025-08-11,Generic,Capsule
+5296,Amoxicillin,Biocon,91,2026-01-07,Non-Generic,Capsule
+5297,Ibuprofen,Dr. Reddy's,49,2026-05-01,Non-Generic,Capsule
+5298,Metformin,Torrent Pharma,43,2025-09-17,Generic,Ointment
+5299,Ciprofloxacin,Dr. Reddy's,4,2025-11-29,Non-Generic,Tablet
+5300,Hydroxychloroquine,Sun Pharma,53,2025-09-09,Non-Generic,Ointment
+5301,Metformin,Zydus,19,2025-11-29,Non-Generic,Ointment
+5302,Azithromycin,Torrent Pharma,67,2025-10-29,Generic,Injection
+5303,Levothyroxine,Zydus,31,2026-02-07,Generic,Injection
+5304,Metformin,Torrent Pharma,29,2026-04-21,Generic,Tablet
+5305,Azithromycin,Lupin,38,2025-08-10,Generic,Tablet
+5306,Azithromycin,Mankind,8,2026-01-06,Non-Generic,Ointment
+5307,Metformin,Mankind,27,2026-04-14,Generic,Capsule
+5308,Levothyroxine,Lupin,8,2025-10-20,Non-Generic,Capsule
+5309,Levothyroxine,Biocon,52,2025-10-16,Generic,Syrup
+5310,Aspirin,Glenmark,80,2025-12-12,Non-Generic,Syrup
+5311,Metformin,Dr. Reddy's,28,2026-06-22,Non-Generic,Injection
+5312,Ibuprofen,Lupin,74,2026-06-18,Generic,Ointment
+5313,Ibuprofen,Biocon,63,2026-03-16,Generic,Capsule
+5314,Ciprofloxacin,Alkem,17,2026-01-31,Generic,Capsule
+5315,Levothyroxine,Lupin,61,2025-12-04,Non-Generic,Capsule
+5316,Omeprazole,Sun Pharma,0,2025-08-11,Non-Generic,Injection
+5317,Hydroxychloroquine,Lupin,27,2026-01-28,Generic,Tablet
+5318,Aspirin,Alkem,30,2025-12-27,Non-Generic,Syrup
+5319,Ibuprofen,Zydus,78,2025-08-07,Generic,Capsule
+5320,Omeprazole,Cipla,38,2026-04-22,Generic,Syrup
+5321,Ciprofloxacin,Zydus,52,2025-08-26,Non-Generic,Capsule
+5322,Azithromycin,Torrent Pharma,20,2025-07-28,Non-Generic,Injection
+5323,Azithromycin,Biocon,39,2026-01-19,Generic,Ointment
+5324,Levothyroxine,Torrent Pharma,11,2026-01-13,Generic,Tablet
+5325,Azithromycin,Dr. Reddy's,66,2025-07-26,Generic,Injection
+5326,Aspirin,Glenmark,13,2025-10-10,Generic,Tablet
+5327,Ciprofloxacin,Cipla,26,2026-04-07,Generic,Capsule
+5328,Paracetamol,Alkem,65,2026-02-04,Generic,Tablet
+5329,Hydroxychloroquine,Torrent Pharma,51,2026-02-21,Generic,Tablet
+5330,Azithromycin,Biocon,72,2025-08-22,Generic,Syrup
+5331,Paracetamol,Alkem,26,2026-02-21,Generic,Ointment
+5332,Levothyroxine,Glenmark,26,2025-12-31,Generic,Syrup
+5333,Omeprazole,Biocon,58,2025-08-15,Generic,Syrup
+5334,Ciprofloxacin,Lupin,90,2026-03-29,Generic,Capsule
+5335,Aspirin,Dr. Reddy's,14,2026-06-17,Generic,Syrup
+5336,Hydroxychloroquine,Torrent Pharma,82,2025-09-17,Non-Generic,Syrup
+5337,Hydroxychloroquine,Lupin,7,2026-03-14,Generic,Injection
+5338,Metformin,Torrent Pharma,32,2025-10-19,Non-Generic,Capsule
+5339,Aspirin,Torrent Pharma,24,2025-09-28,Non-Generic,Capsule
+5340,Hydroxychloroquine,Dr. Reddy's,55,2026-01-08,Generic,Syrup
+5341,Amoxicillin,Glenmark,11,2026-02-13,Non-Generic,Tablet
+5342,Omeprazole,Sun Pharma,18,2025-09-15,Non-Generic,Syrup
+5343,Paracetamol,Alkem,96,2025-10-10,Non-Generic,Ointment
+5344,Ciprofloxacin,Cipla,54,2026-02-25,Non-Generic,Syrup
+5345,Paracetamol,Sun Pharma,25,2026-02-15,Non-Generic,Capsule
+5346,Aspirin,Dr. Reddy's,66,2026-03-08,Generic,Syrup
+5347,Amoxicillin,Dr. Reddy's,26,2026-03-12,Non-Generic,Syrup
+5348,Metformin,Cipla,68,2025-12-12,Generic,Capsule
+5349,Metformin,Lupin,33,2025-12-31,Generic,Injection
+5350,Levothyroxine,Torrent Pharma,16,2025-08-30,Generic,Syrup
+5351,Hydroxychloroquine,Zydus,52,2025-08-23,Non-Generic,Injection
+5352,Omeprazole,Dr. Reddy's,87,2025-10-28,Generic,Ointment
+5353,Metformin,Cipla,71,2026-04-05,Non-Generic,Capsule
+5354,Omeprazole,Lupin,66,2025-09-11,Generic,Injection
+5355,Azithromycin,Torrent Pharma,54,2025-12-20,Generic,Syrup
+5356,Ciprofloxacin,Sun Pharma,9,2025-09-30,Generic,Injection
+5357,Aspirin,Sun Pharma,44,2025-08-21,Non-Generic,Capsule
+5358,Amoxicillin,Biocon,85,2026-03-22,Non-Generic,Ointment
+5359,Hydroxychloroquine,Zydus,31,2025-08-01,Non-Generic,Capsule
+5360,Levothyroxine,Cipla,68,2025-08-04,Non-Generic,Capsule
+5361,Metformin,Mankind,19,2026-01-03,Non-Generic,Tablet
+5362,Ibuprofen,Mankind,27,2026-04-28,Generic,Injection
+5363,Aspirin,Sun Pharma,3,2026-04-26,Generic,Capsule
+5364,Ibuprofen,Biocon,9,2026-02-17,Generic,Capsule
+5365,Ciprofloxacin,Sun Pharma,19,2026-04-27,Non-Generic,Syrup
+5366,Ibuprofen,Cipla,92,2025-09-04,Non-Generic,Ointment
+5367,Hydroxychloroquine,Alkem,89,2025-12-25,Non-Generic,Ointment
+5368,Hydroxychloroquine,Mankind,93,2026-06-15,Non-Generic,Capsule
+5369,Levothyroxine,Sun Pharma,17,2026-02-14,Generic,Syrup
+5370,Ibuprofen,Alkem,12,2025-10-11,Non-Generic,Injection
+5371,Metformin,Lupin,36,2026-03-11,Generic,Syrup
+5372,Levothyroxine,Zydus,1,2026-06-12,Generic,Syrup
+5373,Hydroxychloroquine,Lupin,5,2026-03-25,Non-Generic,Capsule
+5374,Levothyroxine,Torrent Pharma,35,2025-08-28,Non-Generic,Injection
+5375,Levothyroxine,Torrent Pharma,25,2026-06-07,Non-Generic,Capsule
+5376,Ibuprofen,Zydus,59,2026-03-05,Generic,Syrup
+5377,Hydroxychloroquine,Cipla,37,2025-10-26,Generic,Injection
+5378,Ciprofloxacin,Alkem,56,2026-03-15,Non-Generic,Injection
+5379,Amoxicillin,Mankind,74,2025-10-14,Non-Generic,Tablet
+5380,Omeprazole,Mankind,89,2026-05-07,Non-Generic,Ointment
+5381,Azithromycin,Alkem,47,2026-04-29,Generic,Ointment
+5382,Azithromycin,Biocon,45,2026-04-10,Non-Generic,Injection
+5383,Amoxicillin,Sun Pharma,96,2026-05-22,Generic,Ointment
+5384,Amoxicillin,Sun Pharma,88,2026-05-22,Generic,Tablet
+5385,Azithromycin,Dr. Reddy's,42,2025-08-27,Generic,Tablet
+5386,Azithromycin,Sun Pharma,27,2025-11-30,Non-Generic,Injection
+5387,Paracetamol,Mankind,92,2025-11-15,Generic,Ointment
+5388,Omeprazole,Glenmark,69,2025-12-04,Generic,Capsule
+5389,Paracetamol,Zydus,40,2026-01-22,Non-Generic,Syrup
+5390,Amoxicillin,Alkem,85,2025-07-29,Generic,Syrup
+5391,Azithromycin,Sun Pharma,21,2026-03-07,Generic,Syrup
+5392,Ibuprofen,Sun Pharma,47,2025-08-04,Generic,Tablet
+5393,Levothyroxine,Dr. Reddy's,70,2026-05-02,Generic,Syrup
+5394,Ciprofloxacin,Cipla,98,2026-03-10,Non-Generic,Tablet
+5395,Ciprofloxacin,Alkem,96,2025-08-23,Non-Generic,Ointment
+5396,Levothyroxine,Dr. Reddy's,41,2026-02-13,Generic,Capsule
+5397,Omeprazole,Zydus,8,2025-09-19,Non-Generic,Ointment
+5398,Ibuprofen,Biocon,27,2025-09-28,Generic,Injection
+5399,Azithromycin,Zydus,72,2025-10-12,Generic,Capsule
+5400,Ibuprofen,Dr. Reddy's,17,2026-06-12,Non-Generic,Capsule
+5401,Ibuprofen,Alkem,12,2025-09-28,Generic,Ointment
+5402,Azithromycin,Dr. Reddy's,14,2026-03-17,Generic,Tablet
+5403,Metformin,Lupin,17,2026-05-22,Non-Generic,Ointment
+5404,Omeprazole,Dr. Reddy's,13,2025-10-07,Generic,Capsule
+5405,Ciprofloxacin,Torrent Pharma,100,2025-11-16,Non-Generic,Tablet
+5406,Ciprofloxacin,Alkem,72,2025-09-07,Non-Generic,Syrup
+5407,Hydroxychloroquine,Sun Pharma,93,2025-09-29,Generic,Syrup
+5408,Ibuprofen,Sun Pharma,48,2025-12-04,Non-Generic,Syrup
+5409,Hydroxychloroquine,Sun Pharma,64,2026-06-09,Generic,Capsule
+5410,Aspirin,Dr. Reddy's,57,2025-10-09,Generic,Ointment
+5411,Azithromycin,Zydus,37,2026-03-11,Generic,Syrup
+5412,Azithromycin,Cipla,10,2025-09-05,Generic,Tablet
+5413,Paracetamol,Biocon,53,2026-06-02,Non-Generic,Syrup
+5414,Omeprazole,Glenmark,36,2025-10-31,Generic,Tablet
+5415,Levothyroxine,Glenmark,62,2026-01-06,Generic,Ointment
+5416,Amoxicillin,Sun Pharma,79,2025-10-31,Generic,Capsule
+5417,Paracetamol,Mankind,50,2025-10-13,Non-Generic,Syrup
+5418,Ibuprofen,Lupin,35,2026-03-07,Generic,Ointment
+5419,Paracetamol,Zydus,13,2026-03-24,Generic,Ointment
+5420,Hydroxychloroquine,Biocon,1,2025-07-29,Generic,Tablet
+5421,Ibuprofen,Biocon,54,2026-02-28,Non-Generic,Injection
+5422,Metformin,Dr. Reddy's,67,2026-05-25,Generic,Capsule
+5423,Metformin,Cipla,21,2025-11-22,Non-Generic,Ointment
+5424,Aspirin,Alkem,25,2025-12-05,Non-Generic,Tablet
+5425,Azithromycin,Torrent Pharma,58,2025-12-08,Generic,Injection
+5426,Aspirin,Cipla,30,2026-04-17,Generic,Tablet
+5427,Amoxicillin,Dr. Reddy's,71,2026-02-05,Non-Generic,Tablet
+5428,Azithromycin,Dr. Reddy's,86,2026-06-24,Generic,Tablet
+5429,Hydroxychloroquine,Sun Pharma,23,2025-09-05,Generic,Ointment
+5430,Azithromycin,Cipla,49,2025-11-01,Generic,Ointment
+5431,Ciprofloxacin,Torrent Pharma,3,2025-08-01,Generic,Tablet
+5432,Ciprofloxacin,Sun Pharma,4,2025-08-31,Generic,Injection
+5433,Amoxicillin,Biocon,66,2026-01-21,Generic,Syrup
+5434,Aspirin,Zydus,53,2026-03-29,Generic,Tablet
+5435,Ibuprofen,Torrent Pharma,55,2025-10-29,Non-Generic,Syrup
+5436,Metformin,Zydus,92,2026-06-21,Non-Generic,Injection
+5437,Aspirin,Mankind,15,2025-11-06,Non-Generic,Ointment
+5438,Ibuprofen,Alkem,72,2026-01-08,Generic,Tablet
+5439,Azithromycin,Alkem,29,2026-05-20,Non-Generic,Injection
+5440,Omeprazole,Dr. Reddy's,20,2025-08-07,Generic,Capsule
+5441,Aspirin,Lupin,90,2025-08-03,Non-Generic,Capsule
+5442,Ciprofloxacin,Lupin,84,2025-10-28,Generic,Injection
+5443,Hydroxychloroquine,Mankind,82,2026-01-30,Generic,Ointment
+5444,Azithromycin,Glenmark,49,2026-02-18,Generic,Capsule
+5445,Ibuprofen,Sun Pharma,98,2026-05-25,Non-Generic,Tablet
+5446,Metformin,Mankind,78,2025-11-22,Non-Generic,Tablet
+5447,Omeprazole,Cipla,52,2026-05-23,Generic,Syrup
+5448,Ciprofloxacin,Glenmark,53,2026-01-28,Non-Generic,Capsule
+5449,Amoxicillin,Cipla,18,2026-05-16,Non-Generic,Ointment
+5450,Paracetamol,Lupin,67,2025-10-15,Generic,Tablet
+5451,Ibuprofen,Zydus,62,2026-01-31,Non-Generic,Tablet
+5452,Amoxicillin,Mankind,38,2025-08-26,Non-Generic,Ointment
+5453,Ciprofloxacin,Biocon,53,2025-09-18,Generic,Injection
+5454,Levothyroxine,Lupin,96,2026-05-09,Non-Generic,Syrup
+5455,Ciprofloxacin,Glenmark,55,2026-04-09,Non-Generic,Capsule
+5456,Ciprofloxacin,Alkem,6,2026-01-27,Generic,Capsule
+5457,Azithromycin,Mankind,60,2025-08-15,Non-Generic,Tablet
+5458,Amoxicillin,Biocon,37,2026-05-10,Generic,Injection
+5459,Metformin,Biocon,9,2026-02-16,Non-Generic,Tablet
+5460,Omeprazole,Glenmark,82,2026-05-01,Non-Generic,Ointment
+5461,Metformin,Mankind,14,2026-03-28,Non-Generic,Syrup
+5462,Hydroxychloroquine,Cipla,23,2026-06-24,Generic,Tablet
+5463,Levothyroxine,Sun Pharma,71,2026-06-20,Generic,Ointment
+5464,Ibuprofen,Sun Pharma,50,2025-08-06,Generic,Injection
+5465,Metformin,Zydus,9,2026-05-02,Generic,Tablet
+5466,Hydroxychloroquine,Sun Pharma,93,2026-04-10,Non-Generic,Ointment
+5467,Amoxicillin,Lupin,9,2026-06-08,Non-Generic,Syrup
+5468,Metformin,Sun Pharma,45,2026-06-11,Generic,Injection
+5469,Paracetamol,Mankind,56,2026-03-16,Non-Generic,Capsule
+5470,Paracetamol,Alkem,1,2026-06-18,Non-Generic,Ointment
+5471,Ibuprofen,Torrent Pharma,5,2025-09-30,Non-Generic,Tablet
+5472,Ibuprofen,Sun Pharma,12,2025-09-10,Generic,Capsule
+5473,Azithromycin,Dr. Reddy's,81,2026-01-01,Generic,Syrup
+5474,Ciprofloxacin,Cipla,64,2025-10-02,Generic,Tablet
+5475,Paracetamol,Sun Pharma,65,2025-09-30,Non-Generic,Ointment
+5476,Amoxicillin,Alkem,98,2026-01-06,Generic,Capsule
+5477,Omeprazole,Alkem,86,2026-06-13,Generic,Tablet
+5478,Hydroxychloroquine,Glenmark,46,2025-08-14,Generic,Injection
+5479,Omeprazole,Sun Pharma,4,2025-10-29,Generic,Capsule
+5480,Hydroxychloroquine,Biocon,45,2026-04-24,Generic,Ointment
+5481,Metformin,Glenmark,46,2026-06-09,Non-Generic,Tablet
+5482,Hydroxychloroquine,Alkem,73,2026-04-08,Non-Generic,Syrup
+5483,Hydroxychloroquine,Dr. Reddy's,39,2026-06-13,Generic,Tablet
+5484,Ciprofloxacin,Torrent Pharma,35,2026-02-19,Non-Generic,Syrup
+5485,Azithromycin,Torrent Pharma,45,2025-08-22,Generic,Tablet
+5486,Amoxicillin,Sun Pharma,45,2026-03-25,Generic,Injection
+5487,Ciprofloxacin,Sun Pharma,51,2026-05-26,Generic,Injection
+5488,Aspirin,Zydus,11,2026-06-13,Non-Generic,Capsule
+5489,Hydroxychloroquine,Biocon,37,2026-05-17,Non-Generic,Injection
+5490,Aspirin,Biocon,35,2025-10-06,Generic,Tablet
+5491,Hydroxychloroquine,Alkem,91,2026-05-24,Non-Generic,Tablet
+5492,Metformin,Zydus,70,2025-08-07,Generic,Syrup
+5493,Hydroxychloroquine,Sun Pharma,44,2026-01-19,Non-Generic,Ointment
+5494,Omeprazole,Glenmark,33,2025-11-28,Non-Generic,Injection
+5495,Ibuprofen,Alkem,65,2026-05-25,Non-Generic,Syrup
+5496,Hydroxychloroquine,Lupin,42,2025-12-01,Generic,Ointment
+5497,Metformin,Lupin,41,2026-05-20,Generic,Injection
+5498,Levothyroxine,Alkem,47,2025-09-16,Non-Generic,Capsule
+5499,Paracetamol,Torrent Pharma,12,2025-12-25,Generic,Injection
